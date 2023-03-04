@@ -1,0 +1,20 @@
+{
+  "names": {
+    "_": "ddcb597a5e9b982ffacec23cf4dcd9d7acd251e9c63b6df3202ca49f785bc2a9",
+    "test": "a0dfcd037f0c7ac56dc96133ee620202ba3733c4dfd802359fe71f4467e6cc27"
+  },
+  "relays": {
+    "ddcb597a5e9b982ffacec23cf4dcd9d7acd251e9c63b6df3202ca49f785bc2a9": [
+      "wss://nostr-pub.wellorder.net/",
+      "wss://nos.lol/",
+      "wss://offchain.pub/",
+      "wss://nostr.relayer.se/",
+      "wss://relay.current.fyi/"
+    ],
+    "a0dfcd037f0c7ac56dc96133ee620202ba3733c4dfd802359fe71f4467e6cc27": [
+      "wss://nostr-pub.wellorder.net/",
+      "wss://nos.lol/",
+      "wss://offchain.pub/"
+    ]
+  }
+}
